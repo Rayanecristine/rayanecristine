@@ -1,7 +1,7 @@
 # 🌸✨ Projetos 🌸✨
 Básico ao avançado.
 
-# Olá, eu Me chamo Rayane! 🌸✨
+# Olá, me chamo Ane! 🌸✨
 Seja bem-vindo ao meu cantinho no GitHub 💖🐰  
 
 ---
