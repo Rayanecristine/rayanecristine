@@ -10,16 +10,16 @@ Seja bem-vindo ao meu cantinho no GitHub 💖🐰
 - 🎀 Estudante de programação.
 - 🐰 Interesse em **Cibersegurança.**
 - 💻 Criando projetos com dedicação.
+- 💖 Sempre estudando para concursos e provas.
 - 🌱 Atualmente aprendendo **Super Trunfo em c.**
 
 ---
 
-### ✨ O que você gosta
+### ✨ Gosto Bastante
 
 * 🌸 Desenvolvimento web full stack
 * 🎀 Criar sistemas para ajudar pessoas e pequenos negócios.
 * 🐰 Projetos acadêmicos e de pesquisa.
-* 💖 Sempre estudando para concursos e provas.
 
 ---
 
