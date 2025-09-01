@@ -27,7 +27,6 @@ Seja bem-vindo ao meu cantinho no GitHub 💖🐰
 
 * 📧 - E-mail : ane.devv@gmail.com.
 * 💼 - LinkedIn : www.linkedin.com/in/rayane-cristine-1000b2247.
-* ✨ - Lattes : http://lattes.cnpq.br/6269718778371354
 
 ---
 
