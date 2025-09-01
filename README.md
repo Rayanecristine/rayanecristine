@@ -7,11 +7,9 @@ Seja bem-vindo ao meu cantinho no GitHub 💖🐰
 ---
 
 ## 💕 Sobre mim
-- 🌸 Amo cibersegurança.
 - 🎀 Estudante de programação.
 - 🐰 Interesse em **Cibersegurança.**
-- ✨ Criando projetos com dedicação.
-- 💻 Apaixonada por programação e tecnologia.
+- 💻 Criando projetos com dedicação.
 - 🌱 Atualmente aprendendo **Super Trunfo em c.**
 
 ---
