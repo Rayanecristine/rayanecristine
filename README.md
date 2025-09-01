@@ -27,8 +27,8 @@ Seja bem-vindo ao meu cantinho no GitHub 💖🐰
 
 ### 📌 Contatos
 
-* 📧 E-mail : @ane.devv@gmail.com.
-* 💼 LinkedIn : (www.linkedin.com/in/rayane-cristine-1000b2247).
+* 📧 E-mail : ane.devv@gmail.com.
+* 💼 LinkedIn : www.linkedin.com/in/rayane-cristine-1000b2247.
 
 ---
 
